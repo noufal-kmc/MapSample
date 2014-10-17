@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0DBAD160-91E8-42FF-9FD4-91CA10BA988B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A032ACA-27E4-44EC-8867-19383D9F1A3E</key>
+		<string>https://github.com/noufal-kmc/MapSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A032ACA-27E4-44EC-8867-19383D9F1A3E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://ptsvnsrv01.payoda.com/svn/mobile/T@ggeroo/Reference%20app/MapSample/MapSample.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A032ACA-27E4-44EC-8867-19383D9F1A3E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A032ACA-27E4-44EC-8867-19383D9F1A3E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MapSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
